@@ -1,6 +1,5 @@
 # Blender 3.6.2
 # www.blender.org
-mtllib hetzer.mtl
 o Korpus
 v 0.974484 -0.155161 3.174276
 v 0.502488 0.971638 2.204097
